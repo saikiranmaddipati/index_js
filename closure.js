@@ -11,4 +11,4 @@ function outer(num1){
 
 var res=outer(5)
 
-res(9)
+res(10)
